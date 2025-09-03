@@ -8,7 +8,7 @@
 
 
 
-# <p align="center">  2- [Data Mining]() / [Statistic Review]()
+# <p align="center">  3- [Data Mining]() / [Statistic Review - Variation Measures and Standard Deviation]()
 
 
 
